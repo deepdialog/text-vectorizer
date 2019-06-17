@@ -1,0 +1,2 @@
+include text_vectorizer/version.txt
+include requirements.txt
